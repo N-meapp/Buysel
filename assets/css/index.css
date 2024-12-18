@@ -726,14 +726,14 @@ html, body {
 .intro h2 {
     
     position: absolute;
-  top: 0;
-  right: 0;
-  margin-right: 480px;
-  margin-top: -300px;
-  font-family: "Arimo", sans-serif;
-  font-weight: 500;
-  font-size: 40px;
-  letter-spacing: 1px;
+    top: 0;
+    right: 0;
+    margin-right: 480px;
+    margin-top: -300px;
+    font-family: "Arimo", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    letter-spacing:1px;
 }
 
 .intro p {
@@ -861,12 +861,12 @@ html, body {
 }
 
 @media (max-width: 30em) { /* 480px */
-   #intro1 {
+    #intro1 {
         width: 16.5em;
-    height: 12.5em;
-    margin-top: -40.375em;
-    margin-left: 4.375em;
-    object-fit: cover;
+        height: 12.5em;
+        margin-top: -40.375em;
+        margin-left: 4.375em;
+        object-fit: cover;
     }
 
     .intro h2 {
@@ -877,7 +877,6 @@ html, body {
         font-weight: 800;
         text-align: center;
     }
-    
     
 
     .intro p {
