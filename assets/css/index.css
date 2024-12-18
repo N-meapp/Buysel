@@ -861,21 +861,22 @@ html, body {
 }
 
 @media (max-width: 30em) { /* 480px */
-    #intro1 {
+   #intro1 {
         width: 12.5em;
         height: 12.5em;
         margin-top: -40.375em;
-        margin-left: 5.375em;
+        margin-left: 7.375em;
     }
 
-     .intro h2 {
-    margin-left: -19.375em;
-    margin-top: -19.312em;
-    font-size: 1.625em;
-    margin-right: 1.8em;
-    font-weight: 800;
-    text-align: center;
-  }
+    .intro h2 {
+        margin-left: -19.375em;
+        margin-top: -19.312em;
+        font-size: 1.625em;
+        margin-right: 2.8em;
+        font-weight: 800;
+        text-align: center;
+    }
+    
     
 
     .intro p {
