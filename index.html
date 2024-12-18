@@ -84,6 +84,17 @@
             </nav>
             
         </div>
+        <script>
+            // Close the navbar when a link is clicked in mobile view
+            document.querySelectorAll('.navbar-nav li a').forEach(item => {
+                item.addEventListener('click', () => {
+                    if (window.innerWidth <= 768) { // Check if it's mobile view
+                        const navbarCollapse = document.querySelector('.navbar-collapse');
+                        navbarCollapse.classList.remove('show'); // Collapse the navbar
+                    }
+                });
+            });
+        </script>
     </header>
     
 
