@@ -865,20 +865,21 @@ html, body {
         width: 12.5em;
         height: 12.5em;
         margin-top: -40.375em;
-        margin-left: 1.375em;
+        margin-left: 4.375em;
     }
 
     .intro h2 {
-    margin-left: 0.625em;
-    margin-top: -19.312em;
-    font-size: 1.625em;
-    margin-right: 5.8em;
-    font-weight: bold; /* Or use numeric value like 700 */
-}
-
+        margin-left: -19.375em;
+        margin-top: -19.312em;
+        font-size: 1.625em;
+        margin-right: 1.8em;
+        font-weight: 800;
+        text-align: center;
+    }
+    
 
     .intro p {
-        margin-top: -11.625em;
+        margin-top: -12.625em;
         margin-left: 1.5625em;
         margin-right: 2em;
         font-size: 0.875em;
@@ -1075,6 +1076,7 @@ html, body {
     #service-heading {
         font-size: 31px; 
         margin-top: 7px;
+        font-weight: 800;
     }
 }
 
@@ -1234,6 +1236,7 @@ html, body {
         margin: 20px auto; 
         margin-top: 10px;
         margin-left: 0; 
+        font-weight: 800;
     }
 
   
@@ -1629,6 +1632,7 @@ html, body {
 
     #cards-section-title {
         font-size: 25px;
+        font-weight: 800;
     }
 
     .item-icon {
