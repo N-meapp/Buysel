@@ -726,14 +726,14 @@ html, body {
 .intro h2 {
     
     position: absolute;
-    top: 0;
-    right: 0;
-    margin-right: 480px;
-    margin-top: -300px;
-    font-family: "Arimo", sans-serif;
-    font-weight: 500;
-    font-size: 40px;
-    letter-spacing:1px;
+  top: 0;
+  right: 0;
+  margin-right: 480px;
+  margin-top: -300px;
+  font-family: "Arimo", sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: 1px;
 }
 
 .intro p {
