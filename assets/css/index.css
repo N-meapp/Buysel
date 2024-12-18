@@ -862,10 +862,11 @@ html, body {
 
 @media (max-width: 30em) { /* 480px */
    #intro1 {
-        width: 12.5em;
-        height: 12.5em;
-        margin-top: -40.375em;
-        margin-left: 7.375em;
+        width: 16.5em;
+    height: 12.5em;
+    margin-top: -40.375em;
+    margin-left: 4.375em;
+    object-fit: cover;
     }
 
     .intro h2 {
