@@ -869,12 +869,13 @@ html, body {
     }
 
     .intro h2 {
-        margin-left: 0.625em;
-        margin-top: -19.312em;
+    margin-left: 0.625em;
+    margin-top: -19.312em;
     font-size: 1.625em;
     margin-right: 5.8em;
-    font-weight: 20em;
-    }
+    font-weight: bold; /* Or use numeric value like 700 */
+}
+
 
     .intro p {
         margin-top: -11.625em;
