@@ -868,14 +868,14 @@ html, body {
         margin-left: 4.375em;
     }
 
-    .intro h2 {
-        margin-left: -19.375em;
-        margin-top: -19.312em;
-        font-size: 1.625em;
-        margin-right: 1.8em;
-        font-weight: 800;
-        text-align: center;
-    }
+     .intro h2 {
+    margin-left: -19.375em;
+    margin-top: -19.312em;
+    font-size: 1.625em;
+    margin-right: 1.8em;
+    font-weight: 800;
+    text-align: center;
+  }
     
 
     .intro p {
