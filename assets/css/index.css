@@ -29,7 +29,7 @@ html, body {
 
 .image-container {
     display: flex;
-    width: 600%;
+    width: 700%;
     animation: stepSlide 12s steps(1) infinite;
 }
 
