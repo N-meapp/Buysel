@@ -482,10 +482,10 @@ html, body {
 @media (max-width: 480px) {
     .welcome-heading {
         font-size: 28px;
-    margin-top: 60px;
+        margin-top: 93px;
     }
     #background-video{
-        margin-top: -206px;
+        margin-top: -254px;
     width: 100%;
     }
 
@@ -757,19 +757,19 @@ html, body {
     #intro1 {
         width: 12.5em;
         height: 12.5em;
-        margin-top: -24.375em;
+        margin-top: -40.375em;
         margin-left: 1.375em;
     }
 
     .intro h2 {
         margin-left: 0.625em;
-    margin-top: -15.312em;
+        margin-top: -19.312em;
     font-size: 1.625em;
     margin-right: 5em;
     }
 
     .intro p {
-        margin-top: -3.625em;
+        margin-top: -11.625em;
         margin-left: 1.5625em;
         margin-right: 2em;
         font-size: 0.875em;
@@ -782,7 +782,7 @@ html, body {
         gap: 0.5em;
         margin-left: 7.5em;
         margin-right: 5.625em;
-        margin-top: 11.625em;
+        margin-top: 5.625em;
     }
 
     #intro2,
@@ -1857,10 +1857,10 @@ button[type="submit"]:hover {
         font-size: 16px;
     }
     .footer-core h4{
-        margin-left: 61px;
+        margin-left: 78px;
     }
     .footer-core p{
-        margin-left:99px;
+        margin-left: 114px;
     }
     .footer-socials{
         margin-left:-5px;
